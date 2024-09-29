@@ -1,2 +1,10 @@
 # Airline_Delay_Analysis_using_Machine_Learning
 Navigating Air Travel: Delays in High-Traffic Airports
+
+**Objective:**
+
+The proposed objective of the research is to analyse the Flight operations data for United States airports for the year 2019. The data provides us valuable insights into the flight operations of various airlines operating from different USA airports. The data consists of Departing airport and the Arrival airport along with various other paramaters such as distance travelled between two airports, time elapsed during the flight, delay in takeoff while departing and arrival at the destination.
+
+The data consists of few other parameters which describe the causes for the delay in the flight operation such as weather delay, aircraft technical snag issues, carrier delay and delay due to security issues. With the help of above paramaters we will calculate the total number of flights to and from an airport, the average delay in timings of a flight while departing or arriving at an airports and find out patterns with the help of Supervised and unsupervised learning techniques inorder to find out patterns and develop a deep understanding about causes of delays and how to curb them.
+
+Our stakeholders are airline companies who can get insights into causes of the delays around various airports and how they can reduce them inorder to minimize the airline operations cost. The time that an aircraft spends on ground amounts to more loss. This will inturn help airlines to reduce the turnaround time which is landing at an airport and taking off quickly so as to minimize the cost and increase profits. With the help of clustering we will find out departure and arrival airports with minimal delays so that airlines can operate more flights between those routes and make it profitable for the airline companies and economically viable for the passengers by reducing the ticket prices. Finally our main aim is to make airline operations seemingly smooth and profitable so that they can increase their fleet sizes by operating more flights and the profits inturn transfer to the customers in the form of cheap tickets.
